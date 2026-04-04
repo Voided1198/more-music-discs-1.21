@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.tall_remix_music_disc.desc"
+  },
+  "length_in_seconds": 118.0,
+  "sound_event": "moremusicdiscs:tall_remix"
+}

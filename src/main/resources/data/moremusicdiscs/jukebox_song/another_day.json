@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.another_day_music_disc.desc"
+  },
+  "length_in_seconds": 102.0,
+  "sound_event": "moremusicdiscs:another_day"
+}

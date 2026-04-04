@@ -1,0 +1,482 @@
+{
+  "shulk": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:shulk",
+        "stream": true
+      }
+    ]
+  },
+  "18": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:18",
+        "stream": true
+      }
+    ]
+  },
+  "pillaged": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:pillaged",
+        "stream": true
+      }
+    ]
+  },
+  "tall_remix": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:tall_remix",
+        "stream": true
+      }
+    ]
+  },
+  "birch_bop": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:birch_bop",
+        "stream": true
+      }
+    ]
+  },
+  "fort-stress": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:fort-stress",
+        "stream": true
+      }
+    ]
+  },
+  "neon": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:neon",
+        "stream": true
+      }
+    ]
+  },
+  "chorus_fruit": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:chorus_fruit",
+        "stream": true
+      }
+    ]
+  },
+  "anti": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:anti",
+        "stream": true
+      }
+    ]
+  },
+  "shock": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:shock",
+        "stream": true
+      }
+    ]
+  },
+  "ice": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:ice",
+        "stream": true
+      }
+    ]
+  },
+  "weird_realm": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:weird_realm",
+        "stream": true
+      }
+    ]
+  },
+  "lush": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:lush",
+        "stream": true
+      }
+    ]
+  },
+  "mesa": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:mesa",
+        "stream": true
+      }
+    ]
+  },
+  "remnant": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:remnant",
+        "stream": true
+      }
+    ]
+  },
+  "storm": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:storm",
+        "stream": true
+      }
+    ]
+  },
+  "adventure_awaits": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:adventure_awaits",
+        "stream": true
+      }
+    ]
+  },
+  "all_for_one": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:all_for_one",
+        "stream": true
+      }
+    ]
+  },
+  "another_day": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:another_day",
+        "stream": true
+      }
+    ]
+  },
+  "a_quiet_place": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:a_quiet_place",
+        "stream": true
+      }
+    ]
+  },
+  "axolotl_paradise": {
+    "sounds": [
+      {
+      "name": "moremusicdiscs:axolotl_paradise",
+      "stream": true
+      }
+    ]
+  },
+  "beginning": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:beginning",
+        "stream": true
+      }
+    ]
+  },
+  "conqueror": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:conqueror",
+        "stream": true
+      }
+    ]
+  },
+  "diamond_cave": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:diamond_cave",
+        "stream": true
+      }
+    ]
+  },
+  "empire": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:empire",
+        "stream": true
+      }
+    ]
+  },
+  "final_stage": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:final_stage",
+        "stream": true
+      }
+    ]
+  },
+  "gold_rush": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:gold_rush",
+        "stream": true
+      }
+    ]
+  },
+  "haunted_mansion": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:haunted_mansion",
+        "stream": true
+      }
+    ]
+  },
+  "horizons": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:horizons",
+        "stream": true
+      }
+    ]
+  },
+  "iron_oath": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:iron_oath",
+        "stream": true
+      }
+    ]
+  },
+  "last_hallway": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:last_hallway",
+        "stream": true
+      }
+    ]
+  },
+  "new_world": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:new_world",
+        "stream": true
+      }
+    ]
+  },
+  "nightfall": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:nightfall",
+        "stream": true
+      }
+    ]
+  },
+  "sakura_valley": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:sakura_valley",
+        "stream": true
+      }
+    ]
+  },
+  "the_end": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:the_end",
+        "stream": true
+      }
+    ]
+  },
+  "tiny_paws": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:tiny_paws",
+        "stream": true
+      }
+    ]
+  },
+  "vanished": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:vanished",
+        "stream": true
+      }
+    ]
+  },
+  "whispering_woods": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:whispering_woods",
+        "stream": true
+      }
+    ]
+  },
+  "1k": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:1k",
+        "stream": true
+      }
+    ]
+  },
+  "5k": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:5k",
+        "stream": true
+      }
+    ]
+  },
+  "alive": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:alive",
+        "stream": true
+      }
+    ]
+  },
+  "bad_omen": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:bad_omen",
+        "stream": true
+      }
+    ]
+  },
+  "below": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:below",
+        "stream": true
+      }
+    ]
+  },
+  "breeze": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:breeze",
+        "stream": true
+      }
+    ]
+  },
+  "brute": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:brute",
+        "stream": true
+      }
+    ]
+  },
+  "cascade": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:cascade",
+        "stream": true
+      }
+    ]
+  },
+  "celebration": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:celebration",
+        "stream": true
+      }
+    ]
+  },
+  "comet": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:comet",
+        "stream": true
+      }
+    ]
+  },
+  "gilded": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:gilded",
+        "stream": true
+      }
+    ]
+  },
+  "glide": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:glide",
+        "stream": true
+      }
+    ]
+  },
+  "guardian": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:guardian",
+        "stream": true
+      }
+    ]
+  },
+  "husk": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:husk",
+        "stream": true
+      }
+    ]
+  },
+  "lightning": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:lightning",
+        "stream": true
+      }
+    ]
+  },
+  "luminous": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:luminous",
+        "stream": true
+      }
+    ]
+  },
+  "mineshaft": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:mineshaft",
+        "stream": true
+      }
+    ]
+  },
+  "no_escape": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:no_escape",
+        "stream": true
+      }
+    ]
+  },
+  "northern_lights": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:northern_lights",
+        "stream": true
+      }
+    ]
+  },
+  "ochre": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:ocher",
+        "stream": true
+      }
+    ]
+  },
+  "overtune": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:overtune",
+        "stream": true
+      }
+    ]
+  },
+  "pumpkin": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:pumpkin",
+        "stream": true
+      }
+    ]
+  }
+}

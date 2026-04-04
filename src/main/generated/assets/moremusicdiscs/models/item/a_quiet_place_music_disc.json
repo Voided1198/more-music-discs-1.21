@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "moremusicdiscs:item/a_quiet_place_music_disc"
+  }
+}

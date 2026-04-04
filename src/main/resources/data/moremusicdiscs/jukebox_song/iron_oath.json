@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.iron_oath_music_disc.desc"
+  },
+  "length_in_seconds": 121.0,
+  "sound_event": "moremusicdiscs:iron_oath"
+}

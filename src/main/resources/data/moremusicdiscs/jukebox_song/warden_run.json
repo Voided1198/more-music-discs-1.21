@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.warden_run_music_disc.desc"
+  },
+  "length_in_seconds": 184.0,
+  "sound_event": "moremusicdiscs:warden_run"
+}

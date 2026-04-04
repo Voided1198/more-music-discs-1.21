@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "moremusicdiscs:item/another_day_music_disc"
+  }
+}

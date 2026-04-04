@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "moremusicdiscs:item/tall_remix_music_disc"
+  }
+}
