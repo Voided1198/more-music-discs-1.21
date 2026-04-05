@@ -138,6 +138,16 @@ public class ModItemGroups {
                         entries.add(ModItems.OCHRE_MUSIC_DISC);
                         entries.add(ModItems.OVERTUNE_MUSIC_DISC);
                         entries.add(ModItems.PUMPKIN_MUSIC_DISC);
+                        entries.add(ModItems.RAIDERS_MUSIC_DISC);
+                        entries.add(ModItems.SHRIEKER_MUSIC_DISC);
+                        entries.add(ModItems.SHULKER_MUSIC_DISC);
+                        entries.add(ModItems.SNOWSTORM_MUSIC_DISC);
+                        entries.add(ModItems.STRIDE_MUSIC_DISC);
+                        entries.add(ModItems.THE_ENDER_DRAGON_MUSIC_DISC);
+                        entries.add(ModItems.THE_WITHER_MUSIC_DISC);
+                        entries.add(ModItems.THUNDERSTORM_MUSIC_DISC);
+                        entries.add(ModItems.TUNDRA_MUSIC_DISC);
+                        entries.add(ModItems.WARDEN_RUN_MUSIC_DISC);
                     }).build());
 
     public static void registerItemGroups() {

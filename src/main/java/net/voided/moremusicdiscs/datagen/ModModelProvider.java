@@ -79,5 +79,15 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.OCHRE_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.OVERTUNE_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.PUMPKIN_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.RAIDERS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SHRIEKER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SHULKER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SNOWSTORM_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.STRIDE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_ENDER_DRAGON_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_WITHER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THUNDERSTORM_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.TUNDRA_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.WARDEN_RUN_MUSIC_DISC, Models.GENERATED);
     }
 }

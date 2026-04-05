@@ -250,6 +250,46 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> PUMPKIN_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "pumpkin"));
 
+    public static final SoundEvent RAIDERS = registerSoundEvent("raiders");
+    public static final RegistryKey<JukeboxSong> RAIDERS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "raiders"));
+
+    public static final SoundEvent SHRIEKER  = registerSoundEvent("shrieker");
+    public static final RegistryKey<JukeboxSong> SHRIEKER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "shrieker"));
+
+    public static final SoundEvent SHULKER = registerSoundEvent("shulker");
+    public static final RegistryKey<JukeboxSong> SHULKER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "shulker"));
+
+    public static final SoundEvent SNOWSTORM = registerSoundEvent("snowstorm");
+    public static final RegistryKey<JukeboxSong> SNOWSTORM_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "snowstorm"));
+
+    public static final SoundEvent STRIDE = registerSoundEvent("stride");
+    public static final RegistryKey<JukeboxSong> STRIDE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "stride"));
+
+    public static final SoundEvent THE_ENDER_DRAGON = registerSoundEvent("the_ender_dragon");
+    public static final RegistryKey<JukeboxSong> THE_ENDER_DRAGON_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "the_ender_dragon"));
+
+    public static final SoundEvent THE_WITHER = registerSoundEvent("the_wither");
+    public static final RegistryKey<JukeboxSong> THE_WITHER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "the_wither"));
+
+    public static final SoundEvent THUNDERSTORM = registerSoundEvent("thunderstorm");
+    public static final RegistryKey<JukeboxSong> THUNDERSTORM_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "thunderstorm"));
+
+    public static final SoundEvent TUNDRA = registerSoundEvent("tundra");
+    public static final RegistryKey<JukeboxSong> TUNDRA_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "tundra"));
+
+    public static final SoundEvent WARDEN_RUN = registerSoundEvent("warden_run");
+    public static final RegistryKey<JukeboxSong> WARDEN_RUN_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "warden_run"));
+
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(MoreMusicDiscs.MOD_ID, name);
         return Registry.register(Registries.SOUND_EVENT, id, SoundEvent.of(id));

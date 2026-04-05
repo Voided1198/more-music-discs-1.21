@@ -191,6 +191,36 @@ public class ModItems {
     public static final Item PUMPKIN_MUSIC_DISC = registerItem("pumpkin_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.PUMPKIN_KEY).maxCount(1).rarity(Rarity.RARE)));
 
+    public static final Item RAIDERS_MUSIC_DISC = registerItem("raiders_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.RAIDERS_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item SHRIEKER_MUSIC_DISC = registerItem("shrieker_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SHRIEKER_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item SHULKER_MUSIC_DISC = registerItem("shulker_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SHULKER_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item SNOWSTORM_MUSIC_DISC = registerItem("snowstorm_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SNOWSTORM_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item STRIDE_MUSIC_DISC = registerItem("stride_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.STRIDE_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item THE_ENDER_DRAGON_MUSIC_DISC = registerItem("the_ender_dragon_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_ENDER_DRAGON_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item THE_WITHER_MUSIC_DISC = registerItem("the_wither_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_WITHER_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item THUNDERSTORM_MUSIC_DISC = registerItem("thunderstorm_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THUNDERSTORM_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item TUNDRA_MUSIC_DISC = registerItem("tundra_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.TUNDRA_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item WARDEN_RUN_MUSIC_DISC = registerItem("warden_run_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.WARDEN_RUN_KEY).maxCount(1).rarity(Rarity.RARE)));
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(MoreMusicDiscs.MOD_ID, name), item);
     }

@@ -478,5 +478,85 @@
         "stream": true
       }
     ]
+  },
+  "raiders": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:raiders",
+        "stream": true
+      }
+    ]
+  },
+  "shrieker": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:shrieker",
+        "stream": true
+      }
+    ]
+  },
+  "shulker": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:shulker",
+        "stream": true
+      }
+    ]
+  },
+  "snowstorm": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:snowstorm",
+        "stream": true
+      }
+    ]
+  },
+  "stride": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:stride",
+        "stream": true
+      }
+    ]
+  },
+  "the_ender_dragon": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:the_ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "the_wither": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:the_wither",
+        "stream": true
+      }
+    ]
+  },
+  "thunderstorm": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:thunderstorm",
+        "stream": true
+      }
+    ]
+  },
+  "tundra": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:tundra",
+        "stream": true
+      }
+    ]
+  },
+  "warden_run": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:warden_run",
+        "stream": true
+      }
+    ]
   }
 }
