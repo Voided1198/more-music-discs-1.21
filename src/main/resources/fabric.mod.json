@@ -7,10 +7,24 @@
 	"authors": [
 		"Voided"
 	],
+	"contributors": [
+		"BlueberryWaffles (Mod Icon)",
+		"Bling-Bling Cheese (Music)",
+		"JamiesName (Music)",
+		"Caner Crebes (Music)",
+		"toastdot (Music)",
+		"Firch (Music)",
+		"ThatMusicalSparrow (Music)",
+		"Thaetaa-Terraainn (Music)",
+		"T_en_M (Music)",
+		"Laudividni (Music)"
+	],
 	"contact": {
-		"homepage": "https://www.youtube.com/@voided1198"
+		"homepage": "https://modrinth.com/project/voideds-more-music-discs",
+		"sources": "https://github.com/Voided1198/more-music-discs-1.21",
+		"issues": "https://github.com/Voided1198/more-music-discs-1.21/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/moremusicdiscs/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -24,9 +38,6 @@
 			"net.voided.moremusicdiscs.MoreMusicDiscsClient"
 		]
 	},
-	"mixins": [
-		"moremusicdiscs.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.18.4",
 		"minecraft": "~1.21",

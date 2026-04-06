@@ -1,4 +1,4 @@
-// 1.21	2026-04-04T21:03:12.227731928	More Music Discs/Model Definitions
+// 1.21	2026-04-05T20:43:29.097773156	More Music Discs/Model Definitions
 3d588255f95cc7f66fac16016470f5dc8e10d99a assets/moremusicdiscs/models/item/raiders_music_disc.json
 1cd28b1caa57915427331bb13cc5137827178426 assets/moremusicdiscs/models/item/alive_music_disc.json
 4ee452bad3aced37195be746a6d4263a845e11ea assets/moremusicdiscs/models/item/1k_music_disc.json
@@ -25,8 +25,8 @@ c77e0878c2b328c5e66c6c9f2222550a843fd229 assets/moremusicdiscs/models/item/night
 6feea4483c5de702d321748868aabffefa50d4bf assets/moremusicdiscs/models/item/comet_music_disc.json
 6ba708154f3a65cb9f0f62bd33fc0d09d6c1cd06 assets/moremusicdiscs/models/item/beginning_music_disc.json
 5d0cd31f79442ecf16bdff72755c1cf27c09a9d3 assets/moremusicdiscs/models/item/overtune_music_disc.json
-d49058301d4cb91fea89d95535555ede7193dca2 assets/moremusicdiscs/models/item/brute_music_disc.json
 4ec6e21bbcd123ee0c147af1f685bf875885ca56 assets/moremusicdiscs/models/item/thunderstorm_music_disc.json
+d49058301d4cb91fea89d95535555ede7193dca2 assets/moremusicdiscs/models/item/brute_music_disc.json
 a835cc2e488ad2e044b2bf9772f27ac823f485e5 assets/moremusicdiscs/models/item/final_stage_music_disc.json
 127fdc5e3aeb803c41a0780c76dcacd3cd6866cf assets/moremusicdiscs/models/item/mesa_music_disc.json
 002aeb772e5d0bf78e00e8a325afe9d32d335bbc assets/moremusicdiscs/models/item/horizons_music_disc.json
