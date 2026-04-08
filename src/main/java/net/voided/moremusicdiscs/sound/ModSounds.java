@@ -26,6 +26,10 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> BIRCH_BOP_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "birch_bop"));
 
+    public static final SoundEvent EINSTYLE = registerSoundEvent("einstyle");
+    public static final RegistryKey<JukeboxSong> EINSTYLE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "einstyle"));
+
     public static final SoundEvent NEON = registerSoundEvent("neon");
     public static final RegistryKey<JukeboxSong> NEON_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "neon"));
@@ -289,6 +293,10 @@ public class ModSounds {
     public static final SoundEvent WARDEN_RUN = registerSoundEvent("warden_run");
     public static final RegistryKey<JukeboxSong> WARDEN_RUN_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "warden_run"));
+
+    public static final SoundEvent TALL = registerSoundEvent("tall");
+    public static final RegistryKey<JukeboxSong> TALL_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "tall"));
 
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(MoreMusicDiscs.MOD_ID, name);

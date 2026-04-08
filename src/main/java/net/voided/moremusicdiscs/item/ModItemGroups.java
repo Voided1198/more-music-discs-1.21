@@ -27,14 +27,15 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.moremusicdiscs.bling_bling_cheese_discs_group"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.BIRCH_BOP_MUSIC_DISC);
+                        entries.add(ModItems.EINSTYLE_MUSIC_DISC);
                         entries.add(ModItems.FORT_STRESS_MUSIC_DISC);
                         entries.add(ModItems.NEON_MUSIC_DISC);
                     }).build());
 
     public static final ItemGroup CANER_CREBES_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            Identifier.of(MoreMusicDiscs.MOD_ID, "caner_crebes_cheese_discs"),
+            Identifier.of(MoreMusicDiscs.MOD_ID, "caner_crebes_discs"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.CHORUS_FRUIT_MUSIC_DISC))
-                    .displayName(Text.translatable("itemgroup.moremusicdiscs.caner_crebes_cheese_discs_group"))
+                    .displayName(Text.translatable("itemgroup.moremusicdiscs.caner_crebes_discs_group"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.CHORUS_FRUIT_MUSIC_DISC);
                     }).build());
@@ -148,6 +149,14 @@ public class ModItemGroups {
                         entries.add(ModItems.THUNDERSTORM_MUSIC_DISC);
                         entries.add(ModItems.TUNDRA_MUSIC_DISC);
                         entries.add(ModItems.WARDEN_RUN_MUSIC_DISC);
+                    }).build());
+
+    public static final ItemGroup SHEET_GHOST_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(MoreMusicDiscs.MOD_ID, "sheet_ghost_discs"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.TALL_MUSIC_DISC))
+                    .displayName(Text.translatable("itemgroup.moremusicdiscs.sheet_ghost_discs_group"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.TALL_MUSIC_DISC);
                     }).build());
 
     public static void registerItemGroups() {

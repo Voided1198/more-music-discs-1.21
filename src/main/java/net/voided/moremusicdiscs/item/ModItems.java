@@ -26,6 +26,9 @@ public class ModItems {
     public static final Item BIRCH_BOP_MUSIC_DISC = registerItem("birch_bop_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.BIRCH_BOP_KEY).maxCount(1).rarity(Rarity.RARE)));
 
+    public static final Item EINSTYLE_MUSIC_DISC = registerItem("einstyle_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.EINSTYLE_KEY).maxCount(1).rarity(Rarity.RARE)));
+
     public static final Item FORT_STRESS_MUSIC_DISC = registerItem("fort-stress_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.FORT_STRESS_KEY).maxCount(1).rarity(Rarity.RARE)));
 
@@ -220,6 +223,9 @@ public class ModItems {
 
     public static final Item WARDEN_RUN_MUSIC_DISC = registerItem("warden_run_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.WARDEN_RUN_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item TALL_MUSIC_DISC = registerItem("tall_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.TALL_KEY).maxCount(1).rarity(Rarity.RARE)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(MoreMusicDiscs.MOD_ID, name), item);

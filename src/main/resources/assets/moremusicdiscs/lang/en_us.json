@@ -12,12 +12,14 @@
   "itemgroup.moremusicdiscs.bling_bling_cheese_discs_group": "Bling-Bling Cheese Discs",
   "item.moremusicdiscs.birch_bop_music_disc": "Music Disc",
   "item.moremusicdiscs.birch_bop_music_disc.desc": "Bling-Bling Cheese - Birch Bop",
+  "item.moremusicdiscs.einstyle_music_disc": "Music Disc",
+  "item.moremusicdiscs.einstyle_music_disc.desc": "Bling-Bling Cheese - Einstyle",
   "item.moremusicdiscs.fort-stress_music_disc": "Music Disc",
   "item.moremusicdiscs.fort-stress_music_disc.desc": "Bling-Bling Cheese - Fort-Stress",
   "item.moremusicdiscs.neon_music_disc": "Music Disc",
   "item.moremusicdiscs.neon_music_disc.desc": "Bling-Bling Cheese - Neon",
 
-  "itemgroup.moremusicdiscs.caner_crebes_cheese_discs_group": "Caner Crebes Discs",
+  "itemgroup.moremusicdiscs.caner_crebes_discs_group": "Caner Crebes Discs",
   "item.moremusicdiscs.chorus_fruit_music_disc": "Music Disc",
   "item.moremusicdiscs.chorus_fruit_music_disc.desc": "Caner Crebes - Chorus Fruit",
 
@@ -157,5 +159,9 @@
   "item.moremusicdiscs.tundra_music_disc": "Music Disc",
   "item.moremusicdiscs.tundra_music_disc.desc": "T_en_M - Tundra",
   "item.moremusicdiscs.warden_run_music_disc": "Music Disc",
-  "item.moremusicdiscs.warden_run_music_disc.desc": "T_en_M - Warden Run"
+  "item.moremusicdiscs.warden_run_music_disc.desc": "T_en_M - Warden Run",
+
+  "itemgroup.moremusicdiscs.sheet_ghost_discs_group": "Sheet Ghost Discs",
+  "item.moremusicdiscs.tall_music_disc": "Music Disc",
+  "item.moremusicdiscs.tall_music_disc.desc": "Sheet Ghost - Tall"
 }

@@ -24,6 +24,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.PILLAGED_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TALL_REMIX_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.BIRCH_BOP_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.EINSTYLE_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.FORT_STRESS_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.NEON_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.CHORUS_FRUIT_MUSIC_DISC, Models.GENERATED);
@@ -89,5 +90,6 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.THUNDERSTORM_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TUNDRA_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.WARDEN_RUN_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.TALL_MUSIC_DISC, Models.GENERATED);
     }
 }

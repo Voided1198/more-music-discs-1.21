@@ -39,6 +39,14 @@
       }
     ]
   },
+  "einstyle": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:einstyle",
+        "stream": true
+      }
+    ]
+  },
   "fort-stress": {
     "sounds": [
       {
@@ -555,6 +563,14 @@
     "sounds": [
       {
         "name": "moremusicdiscs:warden_run",
+        "stream": true
+      }
+    ]
+  },
+  "tall": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:tall",
         "stream": true
       }
     ]
