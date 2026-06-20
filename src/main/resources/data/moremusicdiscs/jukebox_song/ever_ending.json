@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.ever_ending_music_disc.desc"
+  },
+  "length_in_seconds": 367.0,
+  "sound_event": "moremusicdiscs:ever_ending"
+}

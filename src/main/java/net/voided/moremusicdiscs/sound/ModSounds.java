@@ -298,6 +298,14 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> TALL_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "tall"));
 
+    public static final SoundEvent THANATOPHOBIA = registerSoundEvent("thanatophobia");
+    public static final RegistryKey<JukeboxSong> THANATOPHOBIA_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "thanatophobia"));
+
+    public static final SoundEvent EVER_ENDING = registerSoundEvent("ever_ending");
+    public static final RegistryKey<JukeboxSong> EVER_ENDING_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "ever_ending"));
+
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(MoreMusicDiscs.MOD_ID, name);
         return Registry.register(Registries.SOUND_EVENT, id, SoundEvent.of(id));

@@ -30,6 +30,7 @@ public class ModItemGroups {
                         entries.add(ModItems.EINSTYLE_MUSIC_DISC);
                         entries.add(ModItems.FORT_STRESS_MUSIC_DISC);
                         entries.add(ModItems.NEON_MUSIC_DISC);
+                        entries.add(ModItems.EVER_ENDING_MUSIC_DISC);
                     }).build());
 
     public static final ItemGroup CANER_CREBES_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -157,6 +158,14 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.moremusicdiscs.sheet_ghost_discs_group"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.TALL_MUSIC_DISC);
+                    }).build());
+
+    public static final ItemGroup LOSTISMISSING_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(MoreMusicDiscs.MOD_ID, "lostismissing_discs"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.THANATOPHOBIA_MUSIC_DISC))
+                    .displayName(Text.translatable("itemgroup.moremusicdiscs.lostismissing_group"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.THANATOPHOBIA_MUSIC_DISC);
                     }).build());
 
     public static void registerItemGroups() {

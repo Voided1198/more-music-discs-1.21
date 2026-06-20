@@ -18,6 +18,8 @@
   "item.moremusicdiscs.fort-stress_music_disc.desc": "Bling-Bling Cheese - Fort-Stress",
   "item.moremusicdiscs.neon_music_disc": "Music Disc",
   "item.moremusicdiscs.neon_music_disc.desc": "Bling-Bling Cheese - Neon",
+  "item.moremusicdiscs.ever_ending_music_disc": "Music Disc",
+  "item.moremusicdiscs.ever_ending_music_disc.desc": "Bling-Bling Cheese - Ever Ending",
 
   "itemgroup.moremusicdiscs.caner_crebes_discs_group": "Caner Crebes Discs",
   "item.moremusicdiscs.chorus_fruit_music_disc": "Music Disc",
@@ -163,5 +165,9 @@
 
   "itemgroup.moremusicdiscs.sheet_ghost_discs_group": "Sheet Ghost Discs",
   "item.moremusicdiscs.tall_music_disc": "Music Disc",
-  "item.moremusicdiscs.tall_music_disc.desc": "Sheet Ghost - Tall"
+  "item.moremusicdiscs.tall_music_disc.desc": "Sheet Ghost - Tall",
+
+  "itemgroup.moremusicdiscs.lostismissing_group": "LostIsMissing Discs",
+  "item.moremusicdiscs.thanatophobia_music_disc": "Music Disc",
+  "item.moremusicdiscs.thanatophobia_music_disc.desc": "LostIsMissing - Thanatophobia"
 }

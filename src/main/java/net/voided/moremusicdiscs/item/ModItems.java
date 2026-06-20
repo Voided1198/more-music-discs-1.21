@@ -1,8 +1,6 @@
 package net.voided.moremusicdiscs.item;
 
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -226,6 +224,12 @@ public class ModItems {
 
     public static final Item TALL_MUSIC_DISC = registerItem("tall_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.TALL_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item THANATOPHOBIA_MUSIC_DISC = registerItem("thanatophobia_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THANATOPHOBIA_KEY).maxCount(1).rarity(Rarity.RARE)));
+
+    public static final Item EVER_ENDING_MUSIC_DISC = registerItem("ever_ending_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.EVER_ENDING_KEY).maxCount(1).rarity(Rarity.RARE)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(MoreMusicDiscs.MOD_ID, name), item);

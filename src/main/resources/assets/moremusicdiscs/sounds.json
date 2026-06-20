@@ -574,5 +574,21 @@
         "stream": true
       }
     ]
+  },
+  "thanatophobia": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:thanatophobia",
+        "stream": true
+      }
+    ]
+  },
+  "ever_ending": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:ever_ending",
+        "stream": true
+      }
+    ]
   }
 }
