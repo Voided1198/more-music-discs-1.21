@@ -306,6 +306,18 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> EVER_ENDING_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "ever_ending"));
 
+    public static final SoundEvent TEARS = registerSoundEvent("tears");
+    public static final RegistryKey<JukeboxSong> TEARS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "tears"));
+
+    public static final SoundEvent LAVA_CHICKEN = registerSoundEvent("lava_chicken");
+    public static final RegistryKey<JukeboxSong> LAVA_CHICKEN_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "lava_chicken"));
+
+    public static final SoundEvent BOUNCE = registerSoundEvent("bounce");
+    public static final RegistryKey<JukeboxSong> BOUNCE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "bounce"));
+
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(MoreMusicDiscs.MOD_ID, name);
         return Registry.register(Registries.SOUND_EVENT, id, SoundEvent.of(id));
