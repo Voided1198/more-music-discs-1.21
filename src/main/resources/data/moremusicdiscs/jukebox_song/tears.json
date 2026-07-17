@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "item.moremusicdiscs.tears_music_disc.desc"
+  },
+  "length_in_seconds": 175.0,
+  "sound_event": "moremusicdiscs:tears"
+}

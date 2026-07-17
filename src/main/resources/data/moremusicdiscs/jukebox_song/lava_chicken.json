@@ -1,0 +1,8 @@
+{
+  "comparator_output": 9,
+  "description": {
+    "translate": "item.moremusicdiscs.lava_chicken_music_disc.desc"
+  },
+  "length_in_seconds": 135.0,
+  "sound_event": "moremusicdiscs:lava_chicken"
+}
