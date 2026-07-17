@@ -93,8 +93,5 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.TALL_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.THANATOPHOBIA_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.EVER_ENDING_MUSIC_DISC, Models.GENERATED);
-        itemModelGenerator.register(ModItems.TEARS_MUSIC_DISC, Models.GENERATED);
-        itemModelGenerator.register(ModItems.LAVA_CHICKEN_MUSIC_DISC, Models.GENERATED);
-        itemModelGenerator.register(ModItems.BOUNCE_MUSIC_DISC, Models.GENERATED);
     }
 }

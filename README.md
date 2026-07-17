@@ -351,14 +351,8 @@ Here is a list of all music discs currently in the mod, along with links to all 
   </details>
 </details>
 
-## Notice & Disclaimer
+## Notice
 
 The MIT license applies to everything except the music and disc textures, all of those files are owned by their respective authors.
 
 If you would like to request that a specific music disk of yours or just all your music discs in general be removed from the mod, or if you would like to request a disc or collection of discs be added to the mod please contact me at voided1198@gmail.com and I will remove them immediately.
-
-This mod is in no way affiliated with or endorsed by Mojang, Microsoft, or any of their subsidiaries.
-Minecraft is a trademark of Mojang Studios. All related assets, including textures, names, and game content, are the property of Mojang Studios and Microsoft.
-
-No commercial use is intended or permitted.
-

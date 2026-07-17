@@ -10,6 +10,17 @@ import net.minecraft.util.Identifier;
 import net.voided.moremusicdiscs.MoreMusicDiscs;
 
 public class ModItemGroups {
+    public static final ItemGroup JAMIESNAME_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(MoreMusicDiscs.MOD_ID, "jamiesname_discs"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.SHULK_MUSIC_DISC))
+                    .displayName(Text.translatable("itemgroup.moremusicdiscs.jamiesname_discs_group"))
+                    .entries((displayContext, entries) -> {
+                      entries.add(ModItems.SHULK_MUSIC_DISC);
+                      entries.add(ModItems.MUSIC_DISC_18);
+                      entries.add(ModItems.PILLAGED_MUSIC_DISC);
+                      entries.add(ModItems.TALL_REMIX_MUSIC_DISC);
+                    }).build());
+
     public static final ItemGroup BLING_BLING_CHEESE_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
             Identifier.of(MoreMusicDiscs.MOD_ID, "bling_bling_cheese_discs"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.FORT_STRESS_MUSIC_DISC))
@@ -20,17 +31,6 @@ public class ModItemGroups {
                         entries.add(ModItems.FORT_STRESS_MUSIC_DISC);
                         entries.add(ModItems.NEON_MUSIC_DISC);
                         entries.add(ModItems.EVER_ENDING_MUSIC_DISC);
-                    }).build());
-
-    public static final ItemGroup JAMIESNAME_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            Identifier.of(MoreMusicDiscs.MOD_ID, "jamiesname_discs"),
-            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.SHULK_MUSIC_DISC))
-                    .displayName(Text.translatable("itemgroup.moremusicdiscs.jamiesname_discs_group"))
-                    .entries((displayContext, entries) -> {
-                      entries.add(ModItems.SHULK_MUSIC_DISC);
-                      entries.add(ModItems.MUSIC_DISC_18);
-                      entries.add(ModItems.PILLAGED_MUSIC_DISC);
-                      entries.add(ModItems.TALL_REMIX_MUSIC_DISC);
                     }).build());
 
     public static final ItemGroup CANER_CREBES_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -166,16 +166,6 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.moremusicdiscs.lostismissing_group"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.THANATOPHOBIA_MUSIC_DISC);
-                    }).build());
-
-    public static final ItemGroup MINECRAFT_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            Identifier.of(MoreMusicDiscs.MOD_ID, "minecraft_discs"),
-            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.LAVA_CHICKEN_MUSIC_DISC))
-                    .displayName(Text.translatable("itemgroup.moremusicdiscs.minecraft_group"))
-                    .entries((displayContext, entries) -> {
-                        entries.add(ModItems.TEARS_MUSIC_DISC);
-                        entries.add(ModItems.LAVA_CHICKEN_MUSIC_DISC);
-                        entries.add(ModItems.BOUNCE_MUSIC_DISC);
                     }).build());
 
     public static void registerItemGroups() {
