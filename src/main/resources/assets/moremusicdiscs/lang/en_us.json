@@ -169,13 +169,5 @@
 
   "itemgroup.moremusicdiscs.lostismissing_group": "LostIsMissing Discs",
   "item.moremusicdiscs.thanatophobia_music_disc": "Music Disc",
-  "item.moremusicdiscs.thanatophobia_music_disc.desc": "LostIsMissing - Thanatophobia",
-
-  "itemgroup.moremusicdiscs.minecraft_group": "Minecraft Backport Discs",
-  "item.moremusicdiscs.tears_music_disc": "Music Disc",
-  "item.moremusicdiscs.tears_music_disc.desc": "Amos Roddy - Tears",
-  "item.moremusicdiscs.lava_chicken_music_disc": "Music Disc",
-  "item.moremusicdiscs.lava_chicken_music_disc.desc": "Hyper Potions - Lava Chicken",
-  "item.moremusicdiscs.bounce_music_disc": "Music Disc",
-  "item.moremusicdiscs.bounce_music_disc.desc": "fingerspit - Bounce"
+  "item.moremusicdiscs.thanatophobia_music_disc.desc": "LostIsMissing - Thanatophobia"
 }

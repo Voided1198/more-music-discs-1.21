@@ -168,16 +168,6 @@ public class ModItemGroups {
                         entries.add(ModItems.THANATOPHOBIA_MUSIC_DISC);
                     }).build());
 
-    public static final ItemGroup MINECRAFT_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            Identifier.of(MoreMusicDiscs.MOD_ID, "minecraft_discs"),
-            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.LAVA_CHICKEN_MUSIC_DISC))
-                    .displayName(Text.translatable("itemgroup.moremusicdiscs.minecraft_group"))
-                    .entries((displayContext, entries) -> {
-                        entries.add(ModItems.TEARS_MUSIC_DISC);
-                        entries.add(ModItems.LAVA_CHICKEN_MUSIC_DISC);
-                        entries.add(ModItems.BOUNCE_MUSIC_DISC);
-                    }).build());
-
     public static void registerItemGroups() {
 
     }

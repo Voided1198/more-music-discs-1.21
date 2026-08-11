@@ -231,15 +231,6 @@ public class ModItems {
     public static final Item EVER_ENDING_MUSIC_DISC = registerItem("ever_ending_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.EVER_ENDING_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
 
-    public static final Item TEARS_MUSIC_DISC = registerItem("tears_music_disc",
-            new Item(new Item.Settings().jukeboxPlayable(ModSounds.TEARS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
-
-    public static final Item LAVA_CHICKEN_MUSIC_DISC = registerItem("lava_chicken_music_disc",
-            new Item(new Item.Settings().jukeboxPlayable(ModSounds.LAVA_CHICKEN_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
-
-    public static final Item BOUNCE_MUSIC_DISC = registerItem("bounce_music_disc",
-            new Item(new Item.Settings().jukeboxPlayable(ModSounds.BOUNCE_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
-
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(MoreMusicDiscs.MOD_ID, name), item);
     }

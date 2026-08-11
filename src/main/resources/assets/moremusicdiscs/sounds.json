@@ -590,29 +590,5 @@
         "stream": true
       }
     ]
-  },
-  "tears": {
-    "sounds": [
-      {
-        "name": "moremusicdiscs:tears",
-        "stream": true
-      }
-    ]
-  },
-  "lava_chicken": {
-    "sounds": [
-      {
-        "name": "moremusicdiscs:lava_chicken",
-        "stream": true
-      }
-    ]
-  },
-  "bounce": {
-    "sounds": [
-      {
-        "name": "moremusicdiscs:bounce",
-        "stream": true
-      }
-    ]
   }
 }
