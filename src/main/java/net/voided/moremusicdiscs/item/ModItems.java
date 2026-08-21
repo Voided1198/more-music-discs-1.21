@@ -231,6 +231,72 @@ public class ModItems {
     public static final Item EVER_ENDING_MUSIC_DISC = registerItem("ever_ending_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.EVER_ENDING_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
 
+    public static final Item AETHER_CORRUPT_MUSIC_DISC = registerItem("aether_corrupt_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.AETHER_CORRUPT_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item CORE_OF_FROST_MUSIC_DISC = registerItem("core_of_frost_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.CORE_OF_FROST_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item DRAGON_FIGHT_MUSIC_DISC = registerItem("dragon_fight_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.DRAGON_FIGHT_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item DROWNED_ABYSS_MUSIC_DISC = registerItem("drowned_abyss_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.DROWNED_ABYSS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item DROWNED_DEPTHS_MUSIC_DISC = registerItem("drowned_depths_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.DROWNED_DEPTHS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item ECHOES_FROM_THE_FOG_MUSIC_DISC = registerItem("echoes_from_the_fog_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.ECHOES_FROM_THE_FOG_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item END_CITY_REMAINS_MUSIC_DISC = registerItem("end_city_remains_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.END_CITY_REMAINS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item ENDERS_TWILIGHT_MUSIC_DISC = registerItem("enders_twilight_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.ENDERS_TWILIGHT_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item GOLDEN_DEPTHS_MUSIC_DISC = registerItem("golden_depths_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.GOLDEN_DEPTHS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item GUARDIAN_OF_THE_KEYS_MUSIC_DISC = registerItem("guardian_of_the_keys_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.GUARDIAN_OF_THE_KEYS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item HAUNTED_BOOK_MUSIC_DISC = registerItem("haunted_book_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.HAUNTED_BOOK_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item ICE_TRAIL_MUSIC_DISC = registerItem("ice_trail_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.ICE_TRAIL_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item LOST_SEED_MUSIC_DISC = registerItem("lost_seed_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.LOST_SEED_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item OLD_VIBES_MUSIC_DISC = registerItem("old_vibes_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.OLD_VIBES_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item RELIC_OF_THE_DUNES_MUSIC_DISC = registerItem("relic_of_the_dunes_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.RELIC_OF_THE_DUNES_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item SCULK_AWAKENING_MUSIC_DISC = registerItem("sculk_awakening_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SCULK_AWAKENING_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item SCULK_SPREADS_MUSIC_DISC = registerItem("sculk_spreads_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SCULK_SPREADS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item SPRING_GROVE_MUSIC_DISC = registerItem("spring_grove_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SPRING_GROVE_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item THE_ANCIENT_CAVE_MUSIC_DISC = registerItem("the_ancient_cave_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_ANCIENT_CAVE_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item THE_NETHER_SCAR_MUSIC_DISC = registerItem("the_nether_scar_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_NETHER_SCAR_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item TURTLE_STEPS_MUSIC_DISC = registerItem("turtle_steps_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.TURTLE_STEPS_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
+    public static final Item WITHERING_LIGHT_MUSIC_DISC = registerItem("withering_light_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.WITHERING_LIGHT_KEY).maxCount(1).rarity(Rarity.UNCOMMON)));
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(MoreMusicDiscs.MOD_ID, name), item);
     }

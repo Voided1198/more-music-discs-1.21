@@ -170,8 +170,8 @@
   "axolotl_paradise": {
     "sounds": [
       {
-      "name": "moremusicdiscs:axolotl_paradise",
-      "stream": true
+        "name": "moremusicdiscs:axolotl_paradise",
+        "stream": true
       }
     ]
   },
@@ -587,6 +587,182 @@
     "sounds": [
       {
         "name": "moremusicdiscs:ever_ending",
+        "stream": true
+      }
+    ]
+  },
+  "aether_corrupt": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:aether_corrupt",
+        "stream": true
+      }
+    ]
+  },
+  "core_of_frost": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:core_of_frost",
+        "stream": true
+      }
+    ]
+  },
+  "dragon_fight": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:dragon_fight",
+        "stream": true
+      }
+    ]
+  },
+  "drowned_abyss": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:drowned_abyss",
+        "stream": true
+      }
+    ]
+  },
+  "drowned_depths": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:drowned_depths",
+        "stream": true
+      }
+    ]
+  },
+  "echoes_from_the_fog": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:echoes_from_the_fog",
+        "stream": true
+      }
+    ]
+  },
+  "end_city_remains": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:end_city_remains",
+        "stream": true
+      }
+    ]
+  },
+  "enders_twilight": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:enders_twilight",
+        "stream": true
+      }
+    ]
+  },
+  "golden_depths": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:golden_depths",
+        "stream": true
+      }
+    ]
+  },
+  "guardian_of_the_keys": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:guardian_of_the_keys",
+        "stream": true
+      }
+    ]
+  },
+  "haunted_book": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:haunted_book",
+        "stream": true
+      }
+    ]
+  },
+  "ice_trail": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:ice_trail",
+        "stream": true
+      }
+    ]
+  },
+  "lost_seed": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:lost_seed",
+        "stream": true
+      }
+    ]
+  },
+  "old_vibes": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:old_vibes",
+        "stream": true
+      }
+    ]
+  },
+  "relic_of_the_dunes": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:relic_of_the_dunes",
+        "stream": true
+      }
+    ]
+  },
+  "sculk_awakening": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:sculk_awakening",
+        "stream": true
+      }
+    ]
+  },
+  "sculk_spreads": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:sculk_spreads",
+        "stream": true
+      }
+    ]
+  },
+  "spring_grove": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:spring_grove",
+        "stream": true
+      }
+    ]
+  },
+  "the_ancient_cave": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:the_ancient_cave",
+        "stream": true
+      }
+    ]
+  },
+  "the_nether_scar": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:the_nether_scar",
+        "stream": true
+      }
+    ]
+  },
+  "turtle_steps": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:turtle_steps",
+        "stream": true
+      }
+    ]
+  },
+  "withering_light": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:withering_light",
         "stream": true
       }
     ]

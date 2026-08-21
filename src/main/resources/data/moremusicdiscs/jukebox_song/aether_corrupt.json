@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.aether_corrupt_music_disc.desc"
+  },
+  "length_in_seconds": 397.0,
+  "sound_event": "moremusicdiscs:aether_corrupt"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.guardian_of_the_keys_music_disc.desc"
+  },
+  "length_in_seconds": 227.0,
+  "sound_event": "moremusicdiscs:guardian_of_the_keys"
+}

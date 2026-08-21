@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.core_of_frost_music_disc.desc"
+  },
+  "length_in_seconds": 304.0,
+  "sound_event": "moremusicdiscs:core_of_frost"
+}

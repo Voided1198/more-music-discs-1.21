@@ -168,6 +168,35 @@ public class ModItemGroups {
                         entries.add(ModItems.THANATOPHOBIA_MUSIC_DISC);
                     }).build());
 
+    public static final ItemGroup STEREONYX_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(MoreMusicDiscs.MOD_ID, "stereonyx_discs"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.AETHER_CORRUPT_MUSIC_DISC))
+                    .displayName(Text.translatable("itemgroup.moremusicdiscs.stereonyx_group"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.AETHER_CORRUPT_MUSIC_DISC);
+                        entries.add(ModItems.CORE_OF_FROST_MUSIC_DISC);
+                        entries.add(ModItems.DRAGON_FIGHT_MUSIC_DISC);
+                        entries.add(ModItems.DROWNED_ABYSS_MUSIC_DISC);
+                        entries.add(ModItems.DROWNED_DEPTHS_MUSIC_DISC);
+                        entries.add(ModItems.ECHOES_FROM_THE_FOG_MUSIC_DISC);
+                        entries.add(ModItems.END_CITY_REMAINS_MUSIC_DISC);
+                        entries.add(ModItems.ENDERS_TWILIGHT_MUSIC_DISC);
+                        entries.add(ModItems.GOLDEN_DEPTHS_MUSIC_DISC);
+                        entries.add(ModItems.GUARDIAN_OF_THE_KEYS_MUSIC_DISC);
+                        entries.add(ModItems.HAUNTED_BOOK_MUSIC_DISC);
+                        entries.add(ModItems.ICE_TRAIL_MUSIC_DISC);
+                        entries.add(ModItems.LOST_SEED_MUSIC_DISC);
+                        entries.add(ModItems.OLD_VIBES_MUSIC_DISC);
+                        entries.add(ModItems.RELIC_OF_THE_DUNES_MUSIC_DISC);
+                        entries.add(ModItems.SCULK_AWAKENING_MUSIC_DISC);
+                        entries.add(ModItems.SCULK_SPREADS_MUSIC_DISC);
+                        entries.add(ModItems.SPRING_GROVE_MUSIC_DISC);
+                        entries.add(ModItems.THE_ANCIENT_CAVE_MUSIC_DISC);
+                        entries.add(ModItems.THE_NETHER_SCAR_MUSIC_DISC);
+                        entries.add(ModItems.TURTLE_STEPS_MUSIC_DISC);
+                        entries.add(ModItems.WITHERING_LIGHT_MUSIC_DISC);
+                    }).build());
+
     public static void registerItemGroups() {
 
     }

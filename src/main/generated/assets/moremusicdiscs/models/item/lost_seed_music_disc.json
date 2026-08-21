@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "moremusicdiscs:item/lava_chicken_music_disc"
+    "layer0": "moremusicdiscs:item/lost_seed_music_disc"
   }
 }

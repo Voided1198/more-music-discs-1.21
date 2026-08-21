@@ -93,5 +93,27 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.TALL_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.THANATOPHOBIA_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.EVER_ENDING_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.AETHER_CORRUPT_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.CORE_OF_FROST_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DRAGON_FIGHT_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DROWNED_ABYSS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DROWNED_DEPTHS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ECHOES_FROM_THE_FOG_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.END_CITY_REMAINS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ENDERS_TWILIGHT_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GOLDEN_DEPTHS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GUARDIAN_OF_THE_KEYS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.HAUNTED_BOOK_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ICE_TRAIL_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.LOST_SEED_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.OLD_VIBES_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.RELIC_OF_THE_DUNES_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SCULK_AWAKENING_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SCULK_SPREADS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SPRING_GROVE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_ANCIENT_CAVE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_NETHER_SCAR_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.TURTLE_STEPS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.WITHERING_LIGHT_MUSIC_DISC, Models.GENERATED);
     }
 }

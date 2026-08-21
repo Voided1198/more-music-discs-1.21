@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "moremusicdiscs:item/bounce_music_disc"
+    "layer0": "moremusicdiscs:item/spring_grove_music_disc"
   }
 }

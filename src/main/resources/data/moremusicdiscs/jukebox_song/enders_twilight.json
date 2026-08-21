@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.enders_twilight_music_disc.desc"
+  },
+  "length_in_seconds": 207.0,
+  "sound_event": "moremusicdiscs:enders_twilight"
+}
