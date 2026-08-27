@@ -73,10 +73,10 @@ public class ModItemGroups {
                         entries.add(ModItems.WEIRD_REALM_MUSIC_DISC);
                     }).build());
 
-    public static final ItemGroup THAETAA_TERRAAINN_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            Identifier.of(MoreMusicDiscs.MOD_ID, "thaetaa_terraainn_discs"),
+    public static final ItemGroup HESTIACD_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(MoreMusicDiscs.MOD_ID, "hestiacd_discs"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.LUSH_MUSIC_DISC))
-                    .displayName(Text.translatable("itemgroup.moremusicdiscs.thaetaa_terraainn_discs_group"))
+                    .displayName(Text.translatable("itemgroup.moremusicdiscs.hestiacd_discs_group"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.LUSH_MUSIC_DISC);
                         entries.add(ModItems.MESA_MUSIC_DISC);
@@ -160,14 +160,6 @@ public class ModItemGroups {
                         entries.add(ModItems.TALL_MUSIC_DISC);
                     }).build());
 
-    public static final ItemGroup LOSTISMISSING_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            Identifier.of(MoreMusicDiscs.MOD_ID, "lostismissing_discs"),
-            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.THANATOPHOBIA_MUSIC_DISC))
-                    .displayName(Text.translatable("itemgroup.moremusicdiscs.lostismissing_group"))
-                    .entries((displayContext, entries) -> {
-                        entries.add(ModItems.THANATOPHOBIA_MUSIC_DISC);
-                    }).build());
-
     public static final ItemGroup STEREONYX_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
             Identifier.of(MoreMusicDiscs.MOD_ID, "stereonyx_discs"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.AETHER_CORRUPT_MUSIC_DISC))
@@ -195,6 +187,57 @@ public class ModItemGroups {
                         entries.add(ModItems.THE_NETHER_SCAR_MUSIC_DISC);
                         entries.add(ModItems.TURTLE_STEPS_MUSIC_DISC);
                         entries.add(ModItems.WITHERING_LIGHT_MUSIC_DISC);
+                    }).build());
+
+    public static final ItemGroup LOSTISMISSING_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(MoreMusicDiscs.MOD_ID, "lostismissing_discs"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.SHATTERED_MUSIC_DISC))
+                    .displayName(Text.translatable("itemgroup.moremusicdiscs.lostismissing_group"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.MUSIC_DISC_038);
+                        entries.add(ModItems.MUSIC_DISC_14);
+                        entries.add(ModItems.MUSIC_DISC_39);
+                        entries.add(ModItems.MUSIC_DISC_225);
+                        entries.add(ModItems.AMETHYST_MUSIC_DISC);
+                        entries.add(ModItems.ARCHER_MUSIC_DISC);
+                        entries.add(ModItems.BAMBOO_RAVE_MUSIC_DISC);
+                        entries.add(ModItems.BASTION_MUSIC_DISC);
+                        entries.add(ModItems.BLAZING_BALLAD_MUSIC_DISC);
+                        entries.add(ModItems.CHEDDAR_MUSIC_DISC);
+                        entries.add(ModItems.CHEESE_MUSIC_DISC);
+                        entries.add(ModItems.CHEMISTRY_MUSIC_DISC);
+                        entries.add(ModItems.CRUSH_MUSIC_DISC);
+                        entries.add(ModItems.CYBERNETIC_SPEEDWAY_MUSIC_DISC);
+                        entries.add(ModItems.DEEP_DEPTHS_MUSIC_DISC);
+                        entries.add(ModItems.DRIFTER_MUSIC_DISC);
+                        entries.add(ModItems.EYES_MUSIC_DISC);
+                        entries.add(ModItems.FACE_MUSIC_DISC);
+                        entries.add(ModItems.FEAR_MUSIC_DISC);
+                        entries.add(ModItems.GALACTICA_MUSIC_DISC);
+                        entries.add(ModItems.GOLDEN_DEPTHS_MUSIC_DISC);
+                        entries.add(ModItems.GRAVES_MUSIC_DISC);
+                        entries.add(ModItems.GRIT_MUSIC_DISC);
+                        entries.add(ModItems.HAUNTED_MUSIC_DISC);
+                        entries.add(ModItems.HEARTLESS_MUSIC_DISC);
+                        entries.add(ModItems.ICE_SHARDS_MUSIC_DISC);
+                        entries.add(ModItems.MANSION_MUSIC_DISC);
+                        entries.add(ModItems.MELODY_MUSIC_DISC);
+                        entries.add(ModItems.MOZZARELLA_MUSIC_DISC);
+                        entries.add(ModItems.NEON_CITY_MUSIC_DISC);
+                        entries.add(ModItems.ODYSSEY_MUSIC_DISC);
+                        entries.add(ModItems.PAST_MUSIC_DISC);
+                        entries.add(ModItems.PUMPKIN_PATCH_MUSIC_DISC);
+                        entries.add(ModItems.SEPULCRUM_MUSIC_DISC);
+                        entries.add(ModItems.SHATTERED_MUSIC_DISC);
+                        entries.add(ModItems.SHROOMS_MUSIC_DISC);
+                        entries.add(ModItems.SILVA_MUSIC_DISC);
+                        entries.add(ModItems.SKYLINES_MUSIC_DISC);
+                        entries.add(ModItems.SOULS_MUSIC_DISC);
+                        entries.add(ModItems.STALKER_MUSIC_DISC);
+                        entries.add(ModItems.THANATOPHOBIA_MUSIC_DISC);
+                        entries.add(ModItems.UNITED_MUSIC_DISC);
+                        entries.add(ModItems.WILD_MUSIC_DISC);
+                        entries.add(ModItems.WISPY_PLAINS_MUSIC_DISC);
                     }).build());
 
     public static void registerItemGroups() {

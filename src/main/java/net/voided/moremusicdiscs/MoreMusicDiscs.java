@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import net.voided.moremusicdiscs.item.ModItemGroups;
 import net.voided.moremusicdiscs.item.ModItems;
 import net.voided.moremusicdiscs.sound.ModSounds;
+import net.voided.moremusicdiscs.util.ModLootTableModifiers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -17,5 +18,6 @@ public class MoreMusicDiscs implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModSounds.registerSounds();
+		ModLootTableModifiers.modifyLootTables();
 	}
 }

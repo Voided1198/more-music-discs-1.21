@@ -91,8 +91,10 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.TUNDRA_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.WARDEN_RUN_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TALL_MUSIC_DISC, Models.GENERATED);
-        itemModelGenerator.register(ModItems.THANATOPHOBIA_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.EVER_ENDING_MUSIC_DISC, Models.GENERATED);
+
+        //Stereonyx Discs
+
         itemModelGenerator.register(ModItems.AETHER_CORRUPT_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.CORE_OF_FROST_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.DRAGON_FIGHT_MUSIC_DISC, Models.GENERATED);
@@ -115,5 +117,52 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.THE_NETHER_SCAR_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TURTLE_STEPS_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.WITHERING_LIGHT_MUSIC_DISC, Models.GENERATED);
+
+        //LostIsMissing Discs
+
+        itemModelGenerator.register(ModItems.MUSIC_DISC_038, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_14, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_39, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_225, Models.GENERATED);
+        itemModelGenerator.register(ModItems.AMETHYST_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ARCHER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.BAMBOO_RAVE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.BASTION_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.BLAZING_BALLAD_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.CHEDDAR_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.CHEESE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.CHEMISTRY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.CRUSH_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.CYBERNETIC_SPEEDWAY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DEEP_DEPTHS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DRIFTER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.EYES_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FACE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FEAR_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GALACTICA_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GOLDEN_DAYS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GRAVES_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GRIT_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.HAUNTED_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.HEARTLESS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ICE_SHARDS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MANSION_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MELODY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MOZZARELLA_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.NEON_CITY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ODYSSEY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.PAST_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.PUMPKIN_PATCH_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SEPULCRUM_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SHATTERED_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SHROOMS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SILVA_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SKYLINES_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SOULS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.STALKER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THANATOPHOBIA_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.UNITED_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.WILD_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.WISPY_PLAINS_MUSIC_DISC, Models.GENERATED);
     }
 }

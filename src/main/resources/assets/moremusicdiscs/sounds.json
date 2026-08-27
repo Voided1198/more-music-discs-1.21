@@ -466,7 +466,7 @@
   "ochre": {
     "sounds": [
       {
-        "name": "moremusicdiscs:ocher",
+        "name": "moremusicdiscs:ochre",
         "stream": true
       }
     ]
@@ -571,14 +571,6 @@
     "sounds": [
       {
         "name": "moremusicdiscs:tall",
-        "stream": true
-      }
-    ]
-  },
-  "thanatophobia": {
-    "sounds": [
-      {
-        "name": "moremusicdiscs:thanatophobia",
         "stream": true
       }
     ]
@@ -763,6 +755,358 @@
     "sounds": [
       {
         "name": "moremusicdiscs:withering_light",
+        "stream": true
+      }
+    ]
+  },
+  "038": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:038",
+        "stream": true
+      }
+    ]
+  },
+  "14": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:14",
+        "stream": true
+      }
+    ]
+  },
+  "39": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:39",
+        "stream": true
+      }
+    ]
+  },
+  "225": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:225",
+        "stream": true
+      }
+    ]
+  },
+  "amethyst": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:amethyst",
+        "stream": true
+      }
+    ]
+  },
+  "archer": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:archer",
+        "stream": true
+      }
+    ]
+  },
+  "bamboo_rave": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:bamboo_rave",
+        "stream": true
+      }
+    ]
+  },
+  "bastion": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:bastion",
+        "stream": true
+      }
+    ]
+  },
+  "blazing_ballad": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:blazing_ballad",
+        "stream": true
+      }
+    ]
+  },
+  "cheddar": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:cheddar",
+        "stream": true
+      }
+    ]
+  },
+  "cheese": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:cheese",
+        "stream": true
+      }
+    ]
+  },
+  "chemistry": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:chemistry",
+        "stream": true
+      }
+    ]
+  },
+  "crush": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:crush",
+        "stream": true
+      }
+    ]
+  },
+  "cybernetic_speedway": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:cybernetic_speedway",
+        "stream": true
+      }
+    ]
+  },
+  "deep_depths": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:deep_depths",
+        "stream": true
+      }
+    ]
+  },
+  "drifter": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:drifter",
+        "stream": true
+      }
+    ]
+  },
+  "eyes": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:eyes",
+        "stream": true
+      }
+    ]
+  },
+  "face": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:face",
+        "stream": true
+      }
+    ]
+  },
+  "fear": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:fear",
+        "stream": true
+      }
+    ]
+  },
+  "galactica": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:galactica",
+        "stream": true
+      }
+    ]
+  },
+  "golden_days": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:golden_days",
+        "stream": true
+      }
+    ]
+  },
+  "graves": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:graves",
+        "stream": true
+      }
+    ]
+  },
+  "grit": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:grit",
+        "stream": true
+      }
+    ]
+  },
+  "haunted": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:haunted",
+        "stream": true
+      }
+    ]
+  },
+  "heartless": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:heartless",
+        "stream": true
+      }
+    ]
+  },
+  "ice_shards": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:ice_shards",
+        "stream": true
+      }
+    ]
+  },
+  "mansion": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:mansion",
+        "stream": true
+      }
+    ]
+  },
+  "melody": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:melody",
+        "stream": true
+      }
+    ]
+  },
+  "mozzarella": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:mozzarella",
+        "stream": true
+      }
+    ]
+  },
+  "neon_city": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:neon_city",
+        "stream": true
+      }
+    ]
+  },
+  "odyssey": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:odyssey",
+        "stream": true
+      }
+    ]
+  },
+  "past": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:past",
+        "stream": true
+      }
+    ]
+  },
+  "pumpkin_patch": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:pumpkin_patch",
+        "stream": true
+      }
+    ]
+  },
+  "sepulcrum": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:sepulcrum",
+        "stream": true
+      }
+    ]
+  },
+  "shattered": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:shattered",
+        "stream": true
+      }
+    ]
+  },
+  "shrooms": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:shrooms",
+        "stream": true
+      }
+    ]
+  },
+  "silva": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:silva",
+        "stream": true
+      }
+    ]
+  },
+  "skylines": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:skylines",
+        "stream": true
+      }
+    ]
+  },
+  "souls": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:souls",
+        "stream": true
+      }
+    ]
+  },
+  "stalker": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:stalker",
+        "stream": true
+      }
+    ]
+  },
+  "thanatophobia": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:thanatophobia",
+        "stream": true
+      }
+    ]
+  },
+  "united": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:united",
+        "stream": true
+      }
+    ]
+  },
+  "wild": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:wild",
+        "stream": true
+      }
+    ]
+  },
+  "wispy_plains": {
+    "sounds": [
+      {
+        "name": "moremusicdiscs:wispy_plains",
         "stream": true
       }
     ]

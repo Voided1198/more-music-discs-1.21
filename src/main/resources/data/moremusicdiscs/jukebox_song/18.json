@@ -1,7 +1,7 @@
 {
   "comparator_output": 15,
   "description": {
-    "translate": "item.moremusicdiscs.music_disc_18.desc"
+    "translate": "item.moremusicdiscs.18_music_disc.desc"
   },
   "length_in_seconds": 134.0,
   "sound_event": "moremusicdiscs:18"

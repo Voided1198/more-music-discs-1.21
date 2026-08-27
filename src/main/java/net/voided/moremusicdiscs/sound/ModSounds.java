@@ -298,9 +298,7 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> TALL_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "tall"));
 
-    public static final SoundEvent THANATOPHOBIA = registerSoundEvent("thanatophobia");
-    public static final RegistryKey<JukeboxSong> THANATOPHOBIA_KEY =
-            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "thanatophobia"));
+    //Stereonyx Discs
 
     public static final SoundEvent EVER_ENDING = registerSoundEvent("ever_ending");
     public static final RegistryKey<JukeboxSong> EVER_ENDING_KEY =
@@ -393,6 +391,184 @@ public class ModSounds {
     public static final SoundEvent WITHERING_LIGHT = registerSoundEvent("withering_light");
     public static final RegistryKey<JukeboxSong> WITHERING_LIGHT_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "withering_light"));
+
+    //LostIsMissing Discs
+
+    public static final SoundEvent DISC_038 = registerSoundEvent("038");
+    public static final RegistryKey<JukeboxSong> KEY_038 =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "038"));
+
+    public static final SoundEvent DISC_14 = registerSoundEvent("14");
+    public static final RegistryKey<JukeboxSong> KEY_14 =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "14"));
+
+    public static final SoundEvent DISC_39 = registerSoundEvent("39");
+    public static final RegistryKey<JukeboxSong> KEY_39 =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "39"));
+
+    public static final SoundEvent DISC_225 = registerSoundEvent("225");
+    public static final RegistryKey<JukeboxSong> KEY_225 =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "225"));
+
+    public static final SoundEvent AMETHYST = registerSoundEvent("amethyst");
+    public static final RegistryKey<JukeboxSong> AMETHYST_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "amethyst"));
+
+    public static final SoundEvent ARCHER = registerSoundEvent("archer");
+    public static final RegistryKey<JukeboxSong> ARCHER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "archer"));
+
+    public static final SoundEvent BAMBOO_RAVE = registerSoundEvent("bamboo_rave");
+    public static final RegistryKey<JukeboxSong> BAMBOO_RAVE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "bamboo_rave"));
+
+    public static final SoundEvent BASTION = registerSoundEvent("bastion");
+    public static final RegistryKey<JukeboxSong> BASTION_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "bastion"));
+
+    public static final SoundEvent BLAZING_BALLAD = registerSoundEvent("blazing_ballad");
+    public static final RegistryKey<JukeboxSong> BLAZING_BALLAD_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "blazing_ballad"));
+
+    public static final SoundEvent CHEDDAR = registerSoundEvent("cheddar");
+    public static final RegistryKey<JukeboxSong> CHEDDAR_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "cheddar"));
+
+    public static final SoundEvent CHEESE = registerSoundEvent("cheese");
+    public static final RegistryKey<JukeboxSong> CHEESE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "cheese"));
+
+    public static final SoundEvent CHEMISTRY = registerSoundEvent("chemistry");
+    public static final RegistryKey<JukeboxSong> CHEMISTRY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "chemistry"));
+
+    public static final SoundEvent CRUSH = registerSoundEvent("crush");
+    public static final RegistryKey<JukeboxSong> CRUSH_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "crush"));
+
+    public static final SoundEvent CYBERNETIC_SPEEDWAY = registerSoundEvent("cybernetic_speedway");
+    public static final RegistryKey<JukeboxSong> CYBERNETIC_SPEEDWAY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "cybernetic_speedway"));
+
+    public static final SoundEvent DEEP_DEPTHS = registerSoundEvent("deep_depths");
+    public static final RegistryKey<JukeboxSong> DEEP_DEPTHS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "deep_depths"));
+
+    public static final SoundEvent DRIFTER = registerSoundEvent("drifter");
+    public static final RegistryKey<JukeboxSong> DRIFTER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "drifter"));
+
+    public static final SoundEvent EYES = registerSoundEvent("eyes");
+    public static final RegistryKey<JukeboxSong> EYES_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "eyes"));
+
+    public static final SoundEvent FACE = registerSoundEvent("face");
+    public static final RegistryKey<JukeboxSong> FACE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "face"));
+
+    public static final SoundEvent FEAR = registerSoundEvent("fear");
+    public static final RegistryKey<JukeboxSong> FEAR_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "fear"));
+
+    public static final SoundEvent GALACTICA = registerSoundEvent("galactica");
+    public static final RegistryKey<JukeboxSong> GALACTICA_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "galactica"));
+
+    public static final SoundEvent GOLDEN_DAYS = registerSoundEvent("golden_days");
+    public static final RegistryKey<JukeboxSong> GOLDEN_DAYS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "golden_days"));
+
+    public static final SoundEvent GRAVES = registerSoundEvent("graves");
+    public static final RegistryKey<JukeboxSong> GRAVES_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "graves"));
+
+    public static final SoundEvent GRIT = registerSoundEvent("grit");
+    public static final RegistryKey<JukeboxSong> GRIT_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "grit"));
+
+    public static final SoundEvent HAUNTED = registerSoundEvent("haunted");
+    public static final RegistryKey<JukeboxSong> HAUNTED_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "haunted"));
+
+    public static final SoundEvent HEARTLESS = registerSoundEvent("heartless");
+    public static final RegistryKey<JukeboxSong> HEARTLESS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "heartless"));
+
+    public static final SoundEvent ICE_SHARDS = registerSoundEvent("ice_shards");
+    public static final RegistryKey<JukeboxSong> ICE_SHARDS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "ice_shards"));
+
+    public static final SoundEvent MANSION = registerSoundEvent("mansion");
+    public static final RegistryKey<JukeboxSong> MANSION_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "mansion"));
+
+    public static final SoundEvent MELODY = registerSoundEvent("melody");
+    public static final RegistryKey<JukeboxSong> MELODY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "melody"));
+
+    public static final SoundEvent MOZZARELLA = registerSoundEvent("mozzarella");
+    public static final RegistryKey<JukeboxSong> MOZZARELLA_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "mozzarella"));
+
+    public static final SoundEvent NEON_CITY = registerSoundEvent("neon_city");
+    public static final RegistryKey<JukeboxSong> NEON_CITY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "neon_city"));
+
+    public static final SoundEvent ODYSSEY = registerSoundEvent("odyssey");
+    public static final RegistryKey<JukeboxSong> ODYSSEY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "odyssey"));
+
+    public static final SoundEvent PAST = registerSoundEvent("past");
+    public static final RegistryKey<JukeboxSong> PAST_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "past"));
+
+    public static final SoundEvent PUMPKIN_PATCH = registerSoundEvent("pumpkin_patch");
+    public static final RegistryKey<JukeboxSong> PUMPKIN_PATCH_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "pumpkin_patch"));
+
+    public static final SoundEvent SEPULCRUM = registerSoundEvent("sepulcrum");
+    public static final RegistryKey<JukeboxSong> SEPULCRUM_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "sepulcrum"));
+
+    public static final SoundEvent SHATTERED = registerSoundEvent("shattered");
+    public static final RegistryKey<JukeboxSong> SHATTERED_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "shattered"));
+
+    public static final SoundEvent SHROOMS = registerSoundEvent("shrooms");
+    public static final RegistryKey<JukeboxSong> SHROOMS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "shrooms"));
+
+    public static final SoundEvent SILVA = registerSoundEvent("silva");
+    public static final RegistryKey<JukeboxSong> SILVA_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "silva"));
+
+    public static final SoundEvent SKYLINES = registerSoundEvent("skylines");
+    public static final RegistryKey<JukeboxSong> SKYLINES_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "skylines"));
+
+    public static final SoundEvent SOULS = registerSoundEvent("souls");
+    public static final RegistryKey<JukeboxSong> SOULS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "souls"));
+
+    public static final SoundEvent STALKER = registerSoundEvent("stalker");
+    public static final RegistryKey<JukeboxSong> STALKER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "stalker"));
+
+    public static final SoundEvent THANATOPHOBIA = registerSoundEvent("thanatophobia");
+    public static final RegistryKey<JukeboxSong> THANATOPHOBIA_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "thanatophobia"));
+
+    public static final SoundEvent UNITED = registerSoundEvent("united");
+    public static final RegistryKey<JukeboxSong> UNITED_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "united"));
+
+    public static final SoundEvent WILD = registerSoundEvent("wild");
+    public static final RegistryKey<JukeboxSong> WILD_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "wild"));
+
+    public static final SoundEvent WISPY_PLAINS = registerSoundEvent("wispy_plains");
+    public static final RegistryKey<JukeboxSong> WISPY_PLAINS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreMusicDiscs.MOD_ID, "wispy_plains"));
 
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(MoreMusicDiscs.MOD_ID, name);

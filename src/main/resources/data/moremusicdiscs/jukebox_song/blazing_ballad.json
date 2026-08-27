@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.moremusicdiscs.blazing_ballad_music_disc.desc"
+  },
+  "length_in_seconds": 263.0,
+  "sound_event": "moremusicdiscs:blazing_ballad"
+}
