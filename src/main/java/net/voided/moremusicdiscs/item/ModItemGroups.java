@@ -214,7 +214,7 @@ public class ModItemGroups {
                         entries.add(ModItems.FACE_MUSIC_DISC);
                         entries.add(ModItems.FEAR_MUSIC_DISC);
                         entries.add(ModItems.GALACTICA_MUSIC_DISC);
-                        entries.add(ModItems.GOLDEN_DEPTHS_MUSIC_DISC);
+                        entries.add(ModItems.GOLDEN_DAYS_MUSIC_DISC);
                         entries.add(ModItems.GRAVES_MUSIC_DISC);
                         entries.add(ModItems.GRIT_MUSIC_DISC);
                         entries.add(ModItems.HAUNTED_MUSIC_DISC);
